@@ -15,5 +15,3 @@ if not,
 ** It will call randomGeneration method with will try to find an empty slot in the board using Math.Random class.
 
 
-*** WE HAVE TRIED TO DO WITH OUR OWN KNOWLEDGE WITH OUT ANY REFERENCES AND HELP.
-Thank you
